@@ -1,16 +1,18 @@
-# notifyme
+# 📒 NotesApp
 
-A new Flutter project.
+A clean and minimal **Flutter** notes-taking app that allows users to **create**, **view**, **edit**, and **delete** notes with persistent local storage using **SharedPreferences**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📝 Add new notes with a title and content
+- 📄 View saved notes
+- 🖊️ Edit existing notes
+- ❌ Delete notes
+- 💾 Persistent storage using `SharedPreferences`
+- 📱 Smooth and responsive UI
+- 📦 Built using Flutter with Provider for state management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
